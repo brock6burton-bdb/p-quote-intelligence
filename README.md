@@ -96,3 +96,4 @@ Do not switch to a live Stripe secret key until you have tested the full flow, a
 - The report is decision support and not legal, engineering, code-compliance, or licensing advice.
 - Before accepting real customers, add Terms, Privacy, Refund Policy, data-retention language, error monitoring, and a support email.
 - 
+
